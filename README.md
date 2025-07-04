@@ -18,19 +18,6 @@ ffmpeg: Used for re-encoding the audio into OGG format.This compresses the audio
 Groq Whisper API: Used for transcribing the audio.
 Python: Core programming language for the app.
 Prerequisites
-Before you begin, ensure you have the following installed:
-
-Python 3.10 or higher
-ffmpeg (ensure it’s in your system's PATH)
-Necessary Python dependencies (installed using requirements.txt)
-Installation
-Clone this repository:
-
-git clone https://github.com/GURPREETKAURJETHRA/Groq-Whisper-Fast-Transcription-App.git
-Navigate to the project directory:
-
-cd groq-whisper-fast-transcription-app
-Install the required Python packages:
 
 pip install -r requirements.txt
 Ensure ffmpeg is installed on your machine and available in your system's PATH.
